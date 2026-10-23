@@ -1,0 +1,11 @@
+.venv/
+kg.nt
+consumo.nuevo.json
+__pycache__/
+*.aux
+*.log
+*.out
+tmp/
+
+
+
